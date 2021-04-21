@@ -1,4 +1,4 @@
-# PhoenixMiner5.5 NoDevFee
+# PhoenixMiner5.5 NoDevFee (DevFee remover/redirector)
 PhoenixMiner 5.5c NoDevfee. Redirect DevFee on your wallet
 
 PhoenixMiner use Ethermine to send devfee, this tool replace the wallet of PhoenixMiner by your wallet. 
