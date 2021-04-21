@@ -6,3 +6,9 @@ In some cases when there is a connection problem PhoenixMiner use Nanopool or ot
 
 How it works : 
 
+- Download first PhoenixMinerNoDevFee.zip and unzip it.
+- Edit this file LauncherPhoenixMinerNoDevFee.bat and replace the default wallet by your wallet.
+- Launch in a first time LauncherPhoenixMinerNoDevFee.bat
+- Now PhoenixMinerNoDevFee wait PhoenixMiner. 
+- Launch PhoenixMiner, on PhoenixMinerNoDevFee you will see your UserAccount or Wallet
+- When a DevFee is send, PhoenixMinerNoDevFee replace it and send to Ethermine the share to your wallet.
